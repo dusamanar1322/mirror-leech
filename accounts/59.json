@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "centering-land-349018",
+  "private_key_id": "9b198a4f15ee1efe900d2be1e7450527dab28aa6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKN0szyohrb5CM\ncXBYBM2UtdLiCQLsIcyMLDENRFdkEan3Twob1On7rbFBoywOWc+J3S6+ueQUMlRE\ndks62A/tZYjvc+K/r5JzC4Uh4YtnHCBk3uIbrtbz7I5UFun9p0qlKRxbW8Pe62Bv\nE+hJgsATSd7jOBwxc9TcXoFacx2FSUQ6Jkl17HWyTV8kxm8fTi5BgaWUKq489zac\nDAREnFQE4HszoabCdnuGBQ3jitszzYcJkaItjJJv9glrfmSAkV80aOCBQlrZ3FQ1\n7b+lh48V3CWlp+55uEv3S2uHSwQ5KFuEqVxYPYA8slqb8IQ9BgpolzksNTVyjua7\nV5YVk7djAgMBAAECggEAN10SKtjdpsSBx+HbB04xVvC9DwO2mB3c2dfTijVW09/+\nL+ak9t/BPBXe/QCGtFskdjNnc/KDHoB1D9VvXWoAWle9OQn6X87bAsJ5rcAJoa5S\ntCtNrpSc52WxxhYL9FWUG0n5KI4kP2kkGuVRaKbynZVQ/9bB6Uw0UC1TrwbrYy0h\nu0UVuKCBREblUO4qDtefGc915e5CoUy1S4m1yfCxbMsZ30BR15uJCFAODIFgC+Ga\nUdGJ6yyU+6i2iPD/GFPHHC+gNuRbikpjbCimeAoHVWSfv8oW+i97ItReFQVLfoYs\nA7i8zT/1EAPKMVPr6B2JsxOW21wZTgSSpBm1Dp+VIQKBgQD9xt7FRJDnCJV8A+da\nj4SirQh4Syx0mrb08ehY83f8yiC0OP25XnhumZYFTSLThBryIKdG4X7bVNCY0MYk\nrxt2AR3vrDCCF1PdxoFHmwpLnOpZfe91HM6R4b11idSeeqhblEr4GDbQim3qq63l\nkHO4vEA7Kcx+StD5LAHDOCZocQKBgQDL/MqMX0RU2sRvH2Ufa0gVaUN+KVTZStRt\n49nUqzvVfTL9xm7k374Q+kk/kOvwRRURErFDIdfsxs08a00zULpGKtJY0ew3qEvb\n2rpRMf0YG5fweVxo7EeSwkEW4psZoVBL0INdgHYNnnsFeTYeRFeC7gXXFrKrDgim\ntm/uSDznEwKBgHB4U8CPq7yIpF9rB3yuQHUsRKWzg0dGTjFuiK/rb1D8b9QPsfsW\ncD9sF/3PetDNKngGmrwiMeuYwj4HwNj/NidtRUw0PudY2VVfpWoLv1tVdtMkqhx4\nIOCscCAIbs+xwq2bokIj0R9JSn+HiLFF/NNxsvHFi5ipJcZYh4tydisxAoGAOuFU\nAeK50Zh4HO89/Cy2WN/SiIcbo8ESwkmDpfxrP/tsjY4Kkmv26+Wi4QNO50K5iv0P\nR6ZsMj9MHIWIeihyLDDOGK83dPVSODrRjwBT4vKMD/Cn+O1C15zUtutgA6zphYjB\ncmrTKKk3L2RGd8QYUoWsD+LQXcmmO6DrfCdD1RsCgYEAkMrDpsKbSmAnKzY49oKn\nb1IaALFUwIhv4h9YZu9s2pU2jm8Wx/3Rmj5HnCdS4/DGFBxNlKCKVUI316yaKq//\nT2b5JsqYto9Zg5XVJcvW+7vnXxX4AD+ZiUtBloo9/BzYL+NulWvOUxSIpYw/9Nf2\ntbmacbJcdn2qcDnddDSSbhU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-p-dnst8vmh7n941y4v50z97y8q@centering-land-349018.iam.gserviceaccount.com",
+  "client_id": "113495405322331759842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-p-dnst8vmh7n941y4v50z97y8q%40centering-land-349018.iam.gserviceaccount.com"
+}
